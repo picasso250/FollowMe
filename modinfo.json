@@ -1,8 +1,8 @@
 {
-    "name": "Follow Me!",
+    "name": "Follow Me! (We stand with the people of Ukraine!)",
     "sourceDir": ".",
     "targetDir": "FollowMe",
-    "url": "https://github.com/fluffy-mods/FollowMe",
+    "url": "https://github.com/picasso250/FollowMe",
     "version": {
         "major": 5,
         "minor": 5,
